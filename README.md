@@ -118,7 +118,8 @@ Foodpanda-Data-Analysis/
 │── images/
 │── README.md
 ```
-<img width="691" height="422" alt="Capture" src="https://github.com/user-attachments/assets/87d67b33-f4c2-4301-a993-6b06053fdb1d" />
+<img width="692" height="420" alt="foodpanda dashboard" src="https://github.com/user-attachments/assets/39d16bb5-1ad8-468f-84b1-564009c60ee8" />
+
 
 ---
 
@@ -135,7 +136,7 @@ Foodpanda-Data-Analysis/
 ## 📬 Contact
 
 For questions or collaboration:
-**Name:** [aliyu salamatu ibrahim]
+**Name:** [Aliyu Salamatu Ibrahim]
 **Email:** [selimaaliyu1997@gmail.com]
 **GitHub:** [selimaaliyu1997]
 
