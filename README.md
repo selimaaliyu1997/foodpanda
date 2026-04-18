@@ -124,13 +124,7 @@ Foodpanda-Data-Analysis/
 
 ---
 
-## 🚀 How to Use
 
-1. Clone the repository
-2. Load the dataset into MySQL or Excel
-3. Run SQL scripts for data cleaning
-4. Open Power BI dashboard file
-5. Explore insights and visualizations
 
 ---
 
