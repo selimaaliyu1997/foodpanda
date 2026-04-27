@@ -111,12 +111,11 @@ The dataset includes the following key components:
 ## 📎 Project Structure
 
 ```
-Foodpanda-Data-Analysis/
-│── data/
-│── sql/
-│── dashboards/
-│── images/
-│── README.md
+* Foodpanda-Data-Analysis
+* data
+* dashboards
+* images
+* README.md
 ```
 ##  Project DashBoard
 <img width="692" height="420" alt="foodpanda dashboard" src="https://github.com/user-attachments/assets/39d16bb5-1ad8-468f-84b1-564009c60ee8" />
@@ -137,8 +136,4 @@ For questions or collaboration:
 
 ---
 
-## ⭐ Acknowledgment
 
-This project is created for learning and demonstrating data analysis and business intelligence skills using a real-world dataset.
-
----
